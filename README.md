@@ -29,7 +29,7 @@
 I am a Full Stack Developer with a huge love for Vue.js, React.js, Laravel, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. 
 Currently, I'm open to work and employment opportunities.
 
-- 🔭 &nbsp; I’m currently learning Nodejs and ReactJs
+- 🔭 &nbsp; I’m currently learning Devops
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Backend and front-end web developer.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence .
